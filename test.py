@@ -1,1 +1,2 @@
-Print ("First Line code Python")
+
+print("First line into Test.py")
